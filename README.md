@@ -1,4 +1,12 @@
-## Hi there 👋
+## 👋 Hi there! 🪶
+🫀 I love programming in C++ and Python!
+🍳 I make GUI applications, terminal applications, libraries, and occasionally, web apps!
+👀 I'm interterested in low level computing, programming languages, natural languages (conlanging!!!), and electronic music
+📗 Planning to learn: Rust, Svelte, PostgreSQL
+🐦 Favorite animal: birds!!! (specifically crows!!!)
+🖥 i use arch (w/ stock cinnamon 🥰🥰🥰)
+
+WHAT ☝ is javascript even about 🥀
 
 <!--
 **bellflwr/bellflwr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
