@@ -1,9 +1,9 @@
 ## 👋 Hi there! 🪶
-🫀 I love programming in C++ and Python!
-🍳 I make GUI applications, terminal applications, libraries, and occasionally, web apps!
-👀 I'm interterested in low level computing, programming languages, natural languages (conlanging!!!), and electronic music
-📗 Planning to learn: Rust, Svelte, PostgreSQL
-🐦 Favorite animal: birds!!! (specifically crows!!!)
+🫀 I love programming in C++ and Python!<br>
+🍳 I make GUI applications, terminal applications, libraries, and occasionally, web apps!<br>
+👀 I'm interterested in low level computing, programming languages, natural languages (conlanging!!!), and electronic music<br>
+📗 Planning to learn: Rust, Svelte, PostgreSQL<br>
+🐦 Favorite animal: birds!!! (specifically crows!!!)<br>
 🖥 i use arch (w/ stock cinnamon 🥰🥰🥰)
 
 WHAT ☝ is javascript even about 🥀
